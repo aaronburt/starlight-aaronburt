@@ -27,6 +27,7 @@ export default defineConfig({
 				{
 					label: 'Javascript',
 					items: [
+						{ label: 'Wallpaper API', link: '/projects/javascript/wallpaper-api' },
 						{ label: 'QRCode Generator', link: '/projects/javascript/qr-codegen' },
 						{ label: 'Multi-Threading', link: '/projects/javascript/multi-threading'},
 						{ label: 'IPMI-manager', link: '/projects/javascript/ipmimanager'},
