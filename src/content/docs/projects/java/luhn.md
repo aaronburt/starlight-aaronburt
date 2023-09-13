@@ -85,10 +85,10 @@ public class Luhn {
 ```
 
 --- 
-Amended: 4 Hours later...
+Amended version
 ----
 
-I wrote an improved version of the code because I thought why not
+I rewrote an improved version of the code because I thought, "Why not?" Sure, there are perhaps some extra changes I could make, but it follows the principle of not overengineering the solution.
 
 ```java
 import java.util.LinkedList;

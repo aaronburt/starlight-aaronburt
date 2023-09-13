@@ -14,7 +14,6 @@ export default defineConfig({
 				{
 					label: 'Projects',
 					items: [
-						{ label: 'Password Pusher', link: '/projects/pwpush-implement' },
 						{ label: 'Introduction', link: '/projects/introduction' },
 					],
 				},
@@ -32,6 +31,8 @@ export default defineConfig({
 						{ label: 'Multi-Threading', link: '/projects/javascript/multi-threading'},
 						{ label: 'IPMI-manager', link: '/projects/javascript/ipmimanager'},
 						{ label: 'TypeChecker', link: '/projects/javascript/typechecker'},
+						{ label: 'CSV to JSON', link: '/projects/javascript/csvtojson'},
+						{ label: 'Password Pusher', link: '/projects/javascript/pwpush-implement' },
 						{ label: 'Burst', link: '/projects/javascript/burst'}
 					]
 				},
