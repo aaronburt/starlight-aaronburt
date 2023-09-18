@@ -5,9 +5,10 @@ date: 2023-08-05T22:51:07+0000
 
 ## Written in Spring-Boot
 
-This was roughly implemented, im not a UX person so the design could be seriously improved
+This was roughly implemented, I'm not a UX person, so the design could be seriously improved
 
-<video src="https://storj.aaronburt.co.uk/1691163323/brave_GxAgdTuyOu.mp4" width="100%" controls="true"></video>
+<div style="position:relative;padding-top:56.25%;">
+<iframe src="https://iframe.mediadelivery.net/embed/157033/a0e73017-a220-4093-9adf-ec2c082dcda0?autoplay=true&loop=false&muted=false&preload=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%; background-color: black;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 Have you ever been in that situation where you need to send someone a password but don’t want to say it out loud or 
 send it in plaintext over a messaging service that you know isn’t the most secure? 
