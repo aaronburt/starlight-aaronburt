@@ -10,6 +10,8 @@ This is an Express.js server inside with docker support that allows you to gener
 ### Public Example
 [Qrcode example](https://qrcode-api.aaronburt.co.uk/qr?input=https://google.com)
 
+<img src="https://qrcode-api.aaronburt.co.uk/qr?input=https://google.com" alt="QR Code for https://google.com"/>
+
 This example may take some time to run as the container may need to wake up first. 
 
 ## Features
@@ -17,7 +19,7 @@ This example may take some time to run as the container may need to wake up firs
 - Implements rate limiting to prevent abuse of the API
 - Returns a PNG image of the QR code
 
-<img src="https://storj.aaronburt.co.uk/1694625043/brave_J3z1Cwlzr1.gif"/>
+<img src="https://storj.aaronburt.co.uk/1694625043/brave_J3z1Cwlzr1.gif" alt="qr code url example"/>
 
 ## Usage
 1. Make a GET request to the endpoint /qr with a query parameter input containing the string you want to convert to a QR code.
