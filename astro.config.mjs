@@ -5,6 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
+			favicon: '/public/favicon.ico',
 			title: 'Aaron',
 			social: {
 				github: 'https://github.com/aaronburt',
