@@ -21,7 +21,8 @@ export default defineConfig({
 					label: 'Java',
 					items: [
 						{ label: 'FizzBuzz', link: '/projects/java/fizzbuzz' },
-						{ label: 'Luhn\'s Algorithm', link: '/projects/java/luhn' }
+						{ label: 'Luhn\'s Algorithm', link: '/projects/java/luhn' },
+						{ label: 'Password Pusher', link: '/projects/java/pwpush-implement' },
 					]
 				},
 				{
@@ -33,7 +34,7 @@ export default defineConfig({
 						{ label: 'IPMI-manager', link: '/projects/javascript/ipmimanager'},
 						{ label: 'TypeChecker', link: '/projects/javascript/typechecker'},
 						{ label: 'CSV to JSON', link: '/projects/javascript/csvtojson'},
-						{ label: 'Password Pusher', link: '/projects/javascript/pwpush-implement' },
+
 						{ label: 'Burst', link: '/projects/javascript/burst'}
 					]
 				},
